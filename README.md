@@ -3,7 +3,7 @@ A simple and stylish clock :clock1: in python with a noice GUI. Donate some star
 
 
 ## Usage
-Just head to the [releases page](https://github.com/uniquepersun/python-gui-clock/releases) and get latest version or clone the repo and start writing journals :memo:
+Just head to the [releases page](https://github.com/uniquepersun/python-gui-clock/releases) and get latest version or clone the repo and looking cooool :sunglasses:
 
 
 

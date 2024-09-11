@@ -13,8 +13,7 @@ Run the app and a stylish digital clock will pop up on your screen. perfect for 
 
 ## Some screenshots for you :)
 - watch it in aciton!
-    - [here]()
-    - [another!]()
+    - [here](https://github.com/user-attachments/assets/cc07fe7c-edc6-414c-96e8-51e607cd4d3a)
 
 
 ## 🔗 contact me!!
